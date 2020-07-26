@@ -1,0 +1,1 @@
+Use -> email:admin@gmail.com as defaul admin user password:789654 you can change password later on.
